@@ -1,0 +1,13 @@
+{
+  "name": "DAY-2",
+  "version": "1.0.0",
+  "description": "db",
+  "main": "index.js",
+  "author": "Emmanuel Asmah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "modules": "^0.4.0",
+    "mongoose": "^6.3.0"
+  }
+}
